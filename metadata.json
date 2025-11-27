@@ -1,0 +1,5 @@
+{
+  "name": "MathFrame",
+  "description": "A block-based WYSIWYG mathematical text editor with KaTeX support.",
+  "requestFramePermissions": []
+}
